@@ -1,0 +1,10 @@
+{
+  "name": "My Custom Codespace",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python"
+      ]
+    }
+  }
+}   
